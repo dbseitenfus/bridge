@@ -1,0 +1,8 @@
+{
+  "name": "Bridge",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "292bed24"
+}
